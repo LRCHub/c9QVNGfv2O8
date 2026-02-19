@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ダブル・イフェクト (Off Vocal)",
+  "base_artist": "アルストロメリア",
+  "createdAt": "2026-02-19T11:47:09.256521Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ダブル・イフェクト",
+      "artist": "アルストロメリア",
+      "has_synced": true,
+      "path": "select/01_ダブル・イフェクト_アルストロメリア.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ダブル・イフェクト",
+      "artist": "283PRO",
+      "has_synced": true,
+      "path": "select/02_ダブル・イフェクト_283PRO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ダブル・イフェクト",
+      "artist": "アルストロメリア (黒木ほの香, 前川涼子, 芝崎典子)",
+      "has_synced": true,
+      "path": "select/03_ダブル・イフェクト_アルストロメリア_(黒木ほの香,_前川涼子,_芝崎典子).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ダブル・イフェクト",
+      "artist": "ALSTROEMERIA",
+      "has_synced": true,
+      "path": "select/04_ダブル・イフェクト_ALSTROEMERIA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ダブル・イフェクト",
+      "artist": "アルストロメリア",
+      "has_synced": false,
+      "path": "select/pl_01_ダブル・イフェクト_アルストロメリア.txt"
+    }
+  ]
+}
